@@ -58,7 +58,7 @@ def remover_colaborador():
             print("Colaborador removido com sucesso.")
             break
 
-print("Bem-vindo ao Controle de Colaboradores")
+print("Bem-vindo ao Controle de Colaboradores do Matheus Belarmino Pignata!")
 
 # Declarando o vetor que armazena os colaboradores
 lista_colaboradores = []
